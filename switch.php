@@ -15,6 +15,24 @@
         <li><a href=""></a></li>
         <li><a href=""></a></li>
     </ul>
-    
+    <?php
+        $grade = 'A';
+        
+        switch ($grade) {
+            case 'A':
+                echo 'You are a superstar';
+                break;
+
+            case 'B':
+
+                echo 'You are good';
+
+                break;
+            
+            default:
+                echo 'You are weak';
+                break;
+        }
+    ?>
 </body>
 </html>
