@@ -12,6 +12,7 @@
     <ul>
         <li><a href="index.php">Home</a></li>
         <li><a href="ifstatement.php">If Statement in php</a></li>
+        <li><a href="forloop.php">For Loop</a></li>
         <li><a href="switch.php">SwitCh StatemenT in PHp</a></li>
         <li><a href=""></a></li>
         <li><a href=""></a></li>
