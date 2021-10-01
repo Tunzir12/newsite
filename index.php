@@ -14,8 +14,8 @@
         <li><a href="ifstatement.php">If Statement in php</a></li>
         <li><a href="forloop.php">For Loop</a></li>
         <li><a href="switch.php">SwitCh StatemenT in PHp</a></li>
-        <li><a href=""></a></li>
-        <li><a href=""></a></li>
+        <li><a href="array.php">Array</a></li>
+        <li><a href="string.php">string Manipulation</a></li>
     </ul>
     <?php
         echo 'php codes';

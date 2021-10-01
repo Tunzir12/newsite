@@ -11,6 +11,7 @@
     <ul>
         <li><a href="index.php">Home</a></li>
         <li><a href="ifstatement.php">If Statement in php</a></li>
+        <li><a href="array.php">Array</a>Array</li>
         <li><a href="switch.php">SwitCh StatemenT in PHp</a></li>
         <li><a href=""></a></li>
         <li><a href=""></a></li>

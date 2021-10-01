@@ -11,16 +11,26 @@
     <h2>here are some links to follow rules</h2>
     <ul>
         <li><a href="index.php">Home</a></li>
-        <li><a href="array.php">Array</a>Array</li>
         <li><a href="ifstatement.php">If Statement in php</a></li>
-        <li><a href="switch.php">SwitCh StatemenT in PHp</a></li>
         <li><a href="forloop.php">For Loop</a></li>
-        <li><a href=""></a></li>
+        <li><a href="switch.php">SwitCh StatemenT in PHp</a></li>
+        <li><a href="array.php">Array</a></li>
+        <li><a href="string.php">string Manipulation</a></li>
     </ul>
     <?php
-        for ($count=0; $count < 10; $count++) { 
-            echo '*** the count number is '.$count.' <br>';
-        }
+        $phrase1= "we all are gonna die someday,";
+        $phrase2= "Make sure you lived before you die.";
+
+        echo $phrase1 . ' ' .$phrase2;
+
+         $name= "maliha tunzira";
+
+         echo ucfirst($name).'<br>';
+         echo ucwords($name).'<br>';
+         echo strtoupper($name).'<br>';
+        echo strtolower($name).'<br>';
+
+
     ?>
 </body>
 </html>
