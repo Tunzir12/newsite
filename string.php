@@ -30,6 +30,18 @@
          echo strtoupper($name).'<br>';
         echo strtolower($name).'<br>';
 
+        //find a position with strpos
+
+        echo '<br>find  character of '.strpos($name, 'h');
+        echo '<br>find  character of '.strpos($name, 'i');
+        echo '<br>find  character of '.strpos($name, 'a');
+        echo '<br>find  character of '.strpos($name, 'm');
+
+        //find length
+
+        echo 'Find length of string: '. strlen($phrase1) .'<br>';
+
+
 
     ?>
 </body>

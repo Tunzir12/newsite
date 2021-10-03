@@ -7,7 +7,7 @@
     <title>Php-Home</title>
 </head>
 <body>
-    <h1>Hello World</h1>
+    <h1>Date and time manipulation</h1>
     <h2>here are some links to follow rules</h2>
     <ul>
         <li><a href="index.php">Home</a></li>
@@ -17,10 +17,14 @@
         <li><a href="array.php">Array</a></li>
         <li><a href="string.php">string Manipulation</a></li>
         <li><a href="datetime.php">Date and time Manipulation</a></li>
-        <li><a href="function.php">User defined function</a></li>
     </ul>
     <?php
-        echo 'php codes';
+    $datenow= getdate();
+    echo $datenow['mday'] . 'The date of today<br>';
+    echo $datenow['mon'] . '<br>';
+    echo $datenow['year'] . '<br>';
+
+    echo time();
     ?>
 </body>
 </html>
