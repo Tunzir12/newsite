@@ -1,6 +1,7 @@
 <?php
+        $title = 'Functions';
          include 'includes/header.php';
-    ?>
+?>
 
     <?php 
         //define a function

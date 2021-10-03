@@ -1,6 +1,7 @@
 <?php
+        $title = 'Array';
          include 'includes/header.php';
-    ?>
+?>
     <?php
         $number= array(1,2,4,3,8,9,5,10,7,6);
 

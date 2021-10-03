@@ -1,6 +1,7 @@
 <?php
+        $title = 'Switch';
          include 'includes/header.php';
-    ?>
+?>
     <?php
         $grade = 'A';
         

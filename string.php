@@ -1,6 +1,7 @@
 <?php
+        $title = 'String Manipulation';
          include 'includes/header.php';
-    ?>
+?>
     <?php
         $phrase1= "we all are gonna die someday,";
         $phrase2= "Make sure you lived before you die.";

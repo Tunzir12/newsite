@@ -1,6 +1,7 @@
 <?php
+        $title = 'If Statement';
          include 'includes/header.php';
-    ?>
+?>
     <h3 style="color:red;">here is the example output</h3>
 
     <?php

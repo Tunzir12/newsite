@@ -1,7 +1,7 @@
 <?php
+        $title = 'about';
          include 'includes/header.php';
-    ?>
-
+?>
 <?php
-echo 'this is about page';
+echo '<h2>this is about page</h2>';
 ?>
