@@ -5,3 +5,4 @@
     <?php
         echo 'php codes';
     ?>
+<?php require 'includes/footer.php'?>

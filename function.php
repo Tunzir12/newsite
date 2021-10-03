@@ -3,7 +3,8 @@
          include 'includes/header.php';
 ?>
 
-    <?php 
+<div class="container">
+<?php 
         //define a function
 
         function writemessage(){
@@ -30,3 +31,8 @@
 
 
     ?>
+
+</div>
+
+<?php require 'includes/footer.php'?>
+

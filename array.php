@@ -11,3 +11,4 @@
 
         echo '<br>the size of the array is '.$size ;
     ?>
+<?php require 'includes/footer.php'?>

@@ -21,3 +21,4 @@
                 break;
         }
     ?>
+<?php require 'includes/footer.php'?>

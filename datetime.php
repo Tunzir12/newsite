@@ -10,3 +10,4 @@
 
     echo time();
     ?>
+<?php require 'includes/footer.php'?>

@@ -7,3 +7,4 @@
             echo '*** the count number is '.$count.' <br>';
         }
     ?>
+<?php require 'includes/footer.php'?>

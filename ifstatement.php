@@ -13,3 +13,5 @@
             echo "<h5 style='color: red'> You Have failed </h5>";
         }
     ?>
+
+<?php require 'includes/footer.php'?>
